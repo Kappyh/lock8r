@@ -94,10 +94,12 @@ $ npm start
 
 ```
 
-Installing MongoDB and Mongoose (ubuntu)
+#### Instalando MongoDB and Mongoose (ubuntu)
 
 https://docs.mongodb.com/master/tutorial/install-mongodb-on-ubuntu/?_ga=2.210982160.449598684.1497638966-1010959046.1494553658
 
+
+#### Comandos MongoDB
 
 Starting MongoDB
 
@@ -138,7 +140,7 @@ $ sudo rm -r /var/lib/mongodb
 
 ```
 
-Sugestão de Deploy:
+#### Sugestão de Deploy:
 
 Servidor *PaaS gratuito
 
