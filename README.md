@@ -64,7 +64,7 @@ Para iniciar(dentro da pasta do projeto)
 $ nodemon
 ```
 
-* Observação: Nodemon só deve ser usado exclusivamente em ambiente de desenvolvimento! * 
+*Observação: Nodemon só deve ser usado exclusivamente em ambiente de desenvolvimento!* 
 
 
 #### Instalando ExpressJS (Ubuntu)
@@ -148,8 +148,7 @@ Servidor *PaaS gratuito
 
 Deploy
 
-** Insira a propriedade 'engines' no arquivo package.json com a versão do NodeJS e NPM utilizados no projeto.
-Também inclua um arquivo no projeto com nome Procfile(não possui extesão) com a seguinte configuração: **
+**Insira a propriedade 'engines' no arquivo package.json com a versão do NodeJS e NPM utilizados no projeto.Também inclua um arquivo no projeto com nome Procfile(não possui extesão) com a seguinte configuração:**
 
 ```
 
@@ -157,7 +156,7 @@ web: npm start
 
 ```
 
-Essa configuração informa ao Heroku como fazer o start da aplicação.
+**Essa configuração informa ao Heroku como fazer o start da aplicação.**
 
 
 - Faça o commit do projeto
@@ -175,4 +174,4 @@ Essa configuração informa ao Heroku como fazer o start da aplicação.
 
 ```
 
-**Plataforma como Serviço **
+**Plataforma como Serviço**
